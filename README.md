@@ -137,8 +137,11 @@
 79. [Deep Reinforcement Learning in Production. The use of Reinforcement Learning to Personalize User Experience at Zynga](https://towardsdatascience.com/deep-reinforcement-learning-in-production-7e1e63471e2)
 80. [Feature Stores for ML](http://featurestore.org/)
 81. [What is Data Observability?](https://towardsdatascience.com/what-is-data-observability-40b337971e3e)
-82. [A Practical Guide to Maintaining Machine Learning in Production](https://eugeneyan.com/writing/practical-guide-to-maintaining-machine-learning/)
-83. [Building dashboards for operational visibility (AWS)](https://aws.amazon.com/builders-library/building-dashboards-for-operational-visibility/)
+82. [The Three Types of Observability Your System Needs](https://arize.com/blog/the-three-types-of-observability-your-system-needs/)
+83. [What Is Model Monitoring?](https://arize.com/model-monitoring/)
+84. [A Quickstart Guide To Data Quality In Machine Learning](https://towardsdatascience.com/a-quickstart-guideto-high-quality-data-4112ee8c498b)
+85. [A Practical Guide to Maintaining Machine Learning in Production](https://eugeneyan.com/writing/practical-guide-to-maintaining-machine-learning/)
+86. [Building dashboards for operational visibility (AWS)](https://aws.amazon.com/builders-library/building-dashboards-for-operational-visibility/)
 
 
 <a name="mlops-papers"></a>
